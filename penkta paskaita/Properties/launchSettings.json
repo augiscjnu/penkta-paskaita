@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "penkta paskaita": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
